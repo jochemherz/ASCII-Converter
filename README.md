@@ -30,6 +30,10 @@ but just in case:
   could be used in similar fashion. The ***l*** variable is used to add size variance based on luminance. Using it in different places can result in some cool effects!
 
 ---
+### How It Works
+<add an explanation on how it works>
+ 
+---
 ### Dependencies
 In order to handle GIFs, this Processing sketch uses the [gifAnimation Library for Processing](https://github.com/extrapixel/gif-animation) by extrapixel (Patrick Meister), 
 ported to Processing 3 by Jérôme Saint-Clair. All credit for this library go to Patrick, Jérôme and the rest of the contributors.
