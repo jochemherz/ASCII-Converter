@@ -31,7 +31,7 @@ but just in case:
 
 ---
 ### How It Works
-<add an explanation on how it works>
+<add an explanation on how it works. it only checks for 1 pixel per ascii character, so it keeps it light>
  
 ---
 ### Dependencies
