@@ -1,7 +1,11 @@
 ## ASCII Converter
 Quick and simple ASCII filter for images and GIFs, made with the Processing Framework.
 Feel free to use anything in this repository as you wish!
-
+</br> </br>
+<p align = "center">
+ <img src = "glsl_ASCII-50.gif">
+</p><br>
+  
 ---
 ### How To Use
 1. Open the sketch in the [Processing IDE](https://processing.org/download). 
